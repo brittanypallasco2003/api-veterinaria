@@ -4,7 +4,7 @@
 └── 📁Api-Veterinaria
     └── database.js
     └── index.js
-    └── server.js
+    └── server.js`
     └── package-lock.json
     └── package.json
     └── .env.example
@@ -18,3 +18,9 @@
         └── 📁routers
             └── veterinario_routes.js
 ```
+## Instalación
+Para acceder al proyecto se debe realizar la clonación del mismo mediante:
+```
+git clone
+```
+
