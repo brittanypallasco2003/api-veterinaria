@@ -1,5 +1,5 @@
-# Api-Veterinaria
-## Árbol de Trabajo
+# Api-Veterinaria 🐶
+## Árbol de Trabajo 📂
 ```
 └── 📁Api-Veterinaria
     └── database.js
@@ -21,6 +21,16 @@
 ## Instalación
 Para acceder al proyecto se debe realizar la clonación del mismo mediante:
 ```
-git clone
+git clone https://github.com/brittanypallasco2003/api-veterinaria.git
 ```
+> [!NOTE]
+>
+> Este proyecto trabaja con el sistema de módulos ES Modules
+
+## Environment Variables
+`MONGODB_URI`
+
+## Conexión a la BDD con MongoDB
+
+
 
