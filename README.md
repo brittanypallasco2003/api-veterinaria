@@ -31,6 +31,7 @@ git clone https://github.com/brittanypallasco2003/api-veterinaria.git
 `MONGODB_URI`
 
 ## Conexión a la BDD con MongoDB
+![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/d96189f2-e8c0-4bcb-b1c1-e381d560763c)
 
 
 
