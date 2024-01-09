@@ -7,8 +7,8 @@
     └── server.js
     └── package-lock.json
     └── package.json
-	└── .env.example
-	└── .gitignore
+    └── .env.example
+    └── .gitignore
     └── README.md
     └── 📁src
         └── 📁controllers
