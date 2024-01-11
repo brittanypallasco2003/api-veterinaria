@@ -2,6 +2,8 @@
 import {Router} from 'express'
 //crear una instancia de router
 const router = Router()
+//importar método para protección de rutas
+import verificarAutenticacion from '../middlewares/autenticacion.js'
 
 
 import {
@@ -26,11 +28,10 @@ router.get("/recuperar-password", recuperarPassword);
 router.get("/recuperar-password/:token", comprobarTokenPasword);
 router.post("/nuevo-password/:token", nuevoPassword);
 
-router.get("/perfil", perfil);
-router.put('/veterinario/actualizarpassword',actualizarPassword)
-router.get("/veterinario/:id", detalleVeterinario);
-router.put("/veterinario/:id", actualizarPerfil);
-
+router.get('/perfil',verificarAutenticacion,perfil)
+router.put('/veterinario/actualizarpassword',verificarAutenticacion,actualizarPassword)
+router.get('/veterinario/:id',verificarAutenticacion,detalleVeterinario)
+router.put('/veterinario/:id',verificarAutenticacion,actualizarPerfil)
 
 //exportar la variable router
 export default router

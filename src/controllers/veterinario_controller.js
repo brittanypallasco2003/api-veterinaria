@@ -1,7 +1,8 @@
 
 import Veterinario from "../models/Veterinario.js"
 import { sendMailToUser, sendMailToRecoveryPassword } from "../config/nodemailer.js"
-
+import generarJWT from "../helpers/crearJWT.js"
+import mongoose from "mongoose";
 
 //Método para el login
 const login = async(req,res)=>{
@@ -12,8 +13,10 @@ const login = async(req,res)=>{
     if(!veterinarioBDD) return res.status(404).json({msg:"Lo sentimos, el usuario no se encuentra registrado"})
     const verificarPassword = await veterinarioBDD.matchPassword(password)
     if(!verificarPassword) return res.status(404).json({msg:"Lo sentimos, el password no es el correcto"})
+    const token = generarJWT(veterinarioBDD._id,"veterinario")
     const {nombre,apellido,direccion,telefono,_id} = veterinarioBDD
     res.status(200).json({
+        token,
         nombre,
         apellido,
         direccion,
@@ -25,8 +28,14 @@ const login = async(req,res)=>{
 
 //Método para mostrar el perfil
 const perfil=(req,res)=>{
-    res.status(200).json({res:'perfil del veterinario'})
+    delete req.veterinarioBDD.token
+    delete req.veterinarioBDD.confirmEmail
+    delete req.veterinarioBDD.createdAt
+    delete req.veterinarioBDD.updatedAt
+    delete req.veterinarioBDD.__v
+    res.status(200).json(req.veterinarioBDD)
 }
+
 const registro = async (req,res)=>{
     //desestructurar los campos
     const {email,password} = req.body
@@ -63,8 +72,12 @@ const confirmEmail = async(req,res)=>{
 const listarVeterinarios = (req,res)=>{
     res.status(200).json({res:'lista de veterinarios registrados'})
 }
-const detalleVeterinario = (req,res)=>{
-    res.status(200).json({res:'detalle de un eterinario registrado'})
+const detalleVeterinario = async(req,res)=>{
+    const {id} = req.params
+    if( !mongoose.Types.ObjectId.isValid(id) ) return res.status(404).json({msg:`Lo sentimos, debe ser un id válido`});
+    const veterinarioBDD = await Veterinario.findById(id).select("-password")
+    if(!veterinarioBDD) return res.status(404).json({msg:`Lo sentimos, no existe el veterinario ${id}`})
+    res.status(200).json({msg:veterinarioBDD})
 }
 const actualizarPerfil = (req,res)=>{
     res.status(200).json({res:'actualizar perfil de un veterinario registrado'})
