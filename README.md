@@ -38,6 +38,8 @@ git clone https://github.com/brittanypallasco2003/api-veterinaria.git
 ![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/e82500e1-1457-413b-8068-1874c4d914a4)
 ![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/319eebec-1f1f-497b-b15c-7ea850feb349)
 
+## Recuperación de Contraseñas
+![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/ec1a4dd5-61b9-46a8-aba7-1545959a9657)
 
 
 
