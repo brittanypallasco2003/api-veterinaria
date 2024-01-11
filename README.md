@@ -34,6 +34,7 @@ git clone https://github.com/brittanypallasco2003/api-veterinaria.git
 ![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/1b98c96c-8a4e-46c0-9048-4331fdc8f4a7)
 
 ## Resgistro y envío de emails
+![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/9ef1f836-d4a8-4f08-a906-1a37dacaa8f2)
 
 
 
