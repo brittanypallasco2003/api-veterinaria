@@ -59,28 +59,29 @@ git clone https://github.com/brittanypallasco2003/api-veterinaria.git
 
 |Restablecer password|
 |-|
-|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/dd553bec-681a-40cf-adcb-12a2a3f226a3)![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/dfe3c6c7-c2a3-4a00-b912-ce0987b034c1)|
+|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/dd553bec-681a-40cf-adcb-12a2a3f226a3)|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/dfe3c6c7-c2a3-4a00-b912-ce0987b034c1)|
 
 ## JWT
 ![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/84c46f5d-6b12-49a8-ac20-4e1f518d2527)
 
 ## Protección de Rutas
-![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/5f58b295-7f80-4cbc-a477-78947b322f43)
-![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/7dc5b52b-755c-4a14-ae3a-37c1e42e905e)
-![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/2494b32a-d600-4b1e-aa2b-b97d13265144)
-![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/128e81ad-4943-41de-8d87-430a03438b65)
+|Ruta Perfil|Ruta Detalle de Veterinario|
+|-|-|
+|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/128e81ad-4943-41de-8d87-430a03438b65)|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/2494b32a-d600-4b1e-aa2b-b97d13265144)|
+|
 
-## Actulización de perfil
-![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/b322ddca-9457-49dd-a7d4-806502c171d5)
-![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/75bcba36-5a12-4dd1-bba0-03014ac4fc2f)
+## Actulización de Perfil
+|Actualizar perfil|Perfil Actualizado|
+|-|-|
+|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/b322ddca-9457-49dd-a7d4-806502c171d5)|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/75bcba36-5a12-4dd1-bba0-03014ac4fc2f)|
 
 ## Actualizar contraseña
 ![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/5d4e0d21-111d-4452-8a8e-653d22df6c35)
 
 ## Validación de Datos
-|Validación de Password|Registro|Verificación|
-|-|-|-|
-|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/5fc4ec21-3905-4e82-b576-5fcd86a87b4b)|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/adb28f20-5ae2-4e01-8e9d-08c480b9614b)|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/7701e6ee-2cfa-4db4-91e0-96a7bd48b6dd)|
+|Validación de Password|Registro|
+|-|-|
+|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/5fc4ec21-3905-4e82-b576-5fcd86a87b4b)|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/adb28f20-5ae2-4e01-8e9d-08c480b9614b)|
 
 
 
