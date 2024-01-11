@@ -50,6 +50,11 @@ git clone https://github.com/brittanypallasco2003/api-veterinaria.git
 ## JWT
 ![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/84c46f5d-6b12-49a8-ac20-4e1f518d2527)
 
+## Protección de Rutas
+![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/5f58b295-7f80-4cbc-a477-78947b322f43)
+![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/7dc5b52b-755c-4a14-ae3a-37c1e42e905e)
+![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/2494b32a-d600-4b1e-aa2b-b97d13265144)
+![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/128e81ad-4943-41de-8d87-430a03438b65)
 
 
 
