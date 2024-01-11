@@ -4,7 +4,7 @@ import {Router} from 'express'
 const router = Router()
 //importar método para protección de rutas
 import verificarAutenticacion from '../middlewares/autenticacion.js'
-
+import { validacionVeterinario } from '../middlewares/validacionVeterinario.js';
 
 import {
     login,
@@ -21,7 +21,7 @@ import {
 } from "../controllers/veterinario_controller.js";
 
 router.post("/login", login);
-router.post("/registro", registro);
+router.post('/registro',validacionVeterinario,registro)
 router.get("/confirmar/:token", confirmEmail);
 router.get("/veterinarios", listarVeterinarios);
 router.get("/recuperar-password", recuperarPassword);
@@ -31,6 +31,7 @@ router.post("/nuevo-password/:token", nuevoPassword);
 router.get('/perfil',verificarAutenticacion,perfil)
 router.put('/veterinario/actualizarpassword',verificarAutenticacion,actualizarPassword)
 router.get('/veterinario/:id',verificarAutenticacion,detalleVeterinario)
+//RUTA PARA ACTUALIZAR EL PERFIL DE VETERINARIO
 router.put('/veterinario/:id',verificarAutenticacion,actualizarPerfil)
 
 //exportar la variable router
