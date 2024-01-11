@@ -47,6 +47,10 @@ git clone https://github.com/brittanypallasco2003/api-veterinaria.git
 ![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/dd553bec-681a-40cf-adcb-12a2a3f226a3)
 ![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/dfe3c6c7-c2a3-4a00-b912-ce0987b034c1)
 
+## JWT
+![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/84c46f5d-6b12-49a8-ac20-4e1f518d2527)
+
+
 
 
 
