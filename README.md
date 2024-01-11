@@ -56,6 +56,19 @@ git clone https://github.com/brittanypallasco2003/api-veterinaria.git
 ![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/2494b32a-d600-4b1e-aa2b-b97d13265144)
 ![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/128e81ad-4943-41de-8d87-430a03438b65)
 
+## Actulización de perfil
+![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/b322ddca-9457-49dd-a7d4-806502c171d5)
+![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/75bcba36-5a12-4dd1-bba0-03014ac4fc2f)
+
+## Actualizar contraseña
+![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/5d4e0d21-111d-4452-8a8e-653d22df6c35)
+
+## Validación de datos
+![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/5fc4ec21-3905-4e82-b576-5fcd86a87b4b)
+![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/adb28f20-5ae2-4e01-8e9d-08c480b9614b)
+![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/7701e6ee-2cfa-4db4-91e0-96a7bd48b6dd)
+
+
 
 
 
