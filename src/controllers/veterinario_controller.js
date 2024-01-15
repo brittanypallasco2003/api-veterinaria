@@ -69,6 +69,7 @@ const confirmEmail = async(req,res)=>{
     await veterinarioBDD.save()
     res.status(200).json({msg:"Token confirmado, ya puedes iniciar sesión"}) 
 }
+
 const listarVeterinarios = (req,res)=>{
     res.status(200).json({res:'lista de veterinarios registrados'})
 }
