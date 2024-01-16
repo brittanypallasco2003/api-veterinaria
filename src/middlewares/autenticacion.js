@@ -2,6 +2,7 @@
 import jwt from 'jsonwebtoken'
 //Importar el modelo
 import Veterinario from '../models/Veterinario.js'
+import Paciente from '../models/Paciente.js'
 
 //Metodo ara proteger rutas
 const verificarAutenticacion = async (req,res,next)=>{
@@ -20,11 +21,21 @@ if(!req.headers.authorization) return res.status(404).json({msg:"Lo sentimos, de
             //Confirmar el proceso
             next()
         }
+        else{
+            req.pacienteBDD = await Paciente.findById(id).lean().select("-password")
+            next()
+        }
     } catch (error) {
         //Capturar errores y presentarlos
         const e = new Error("Formato del token no válido")
         return res.status(404).json({msg:e.message})
     }
 }
+
+
+
+
+
+
 //Exportar el modelo
 export default verificarAutenticacion

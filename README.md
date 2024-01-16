@@ -58,7 +58,8 @@ git clone https://github.com/brittanypallasco2003/api-veterinaria.git
 ## Conexión a la BDD con MongoDB
 ![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/1b98c96c-8a4e-46c0-9048-4331fdc8f4a7)
 
-## Resgistro y envío de emails
+## Módulo Veterinarios
+### Resgistro y envío de emails
 |Registro|Envío emails|Login|
 |-|-|-|
 |![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/97f978ca-579d-4308-b874-204d4390c780)|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/e82500e1-1457-413b-8068-1874c4d914a4)|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/30564bbc-264b-4f62-b586-afe93720c6d3)|
@@ -96,6 +97,13 @@ git clone https://github.com/brittanypallasco2003/api-veterinaria.git
 |![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/5fc4ec21-3905-4e82-b576-5fcd86a87b4b)|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/adb28f20-5ae2-4e01-8e9d-08c480b9614b)|
 
 
+## Módulo Pacientes
+### Resgistro y envío de emails
+|Registro|Envío emails|Login|
+|-|-|-|
+|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/97f978ca-579d-4308-b874-204d4390c780)|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/e82500e1-1457-413b-8068-1874c4d914a4)|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/30564bbc-264b-4f62-b586-afe93720c6d3)|
+
+### Mostrar los pacientes por veterinario
 
 
 
