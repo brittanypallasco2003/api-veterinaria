@@ -15,6 +15,7 @@
             └── nodemailer.js
         └── 📁controllers
             └── veterinario_controller.js
+            └── paciente_controller.js
         └── 📁helpers
             └── crearJWT.js
         └── 📁middlewares
@@ -22,8 +23,10 @@
             └── validacionVeterinario.js
         └── 📁models
             └── Veterinario.js
+            └── Paciente.js
         └── 📁routers
             └── veterinario_routes.js
+            └── paciente_routes.js
 ```
 ## Instalación
 Para acceder al proyecto se debe realizar la clonación del mismo mediante:
