@@ -111,4 +111,8 @@ git clone https://github.com/brittanypallasco2003/api-veterinaria.git
 |-|
 |![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/fdb8992d-6746-4633-bf2c-1ab913292b8c)|
 
+|Pacientes del Veterinario: Romina Vanegas|
+|-|
+|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/b2c18ea6-fe37-46e1-bf64-b98ce51b63fb)|
+
 
