@@ -104,7 +104,7 @@ git clone https://github.com/brittanypallasco2003/api-veterinaria.git
 ### Resgistro y envío de emails
 |Registro|Envío emails|Login|
 |-|-|-|
-|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/1ba18237-433c-4fe6-85b9-18f340b19c24)|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/cf8708db-da10-4c46-85c4-746862b1e530)||
+|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/1ba18237-433c-4fe6-85b9-18f340b19c24)|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/cf8708db-da10-4c46-85c4-746862b1e530)|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/5fb1d974-a374-4c3d-b136-5118f9514b15)|
 
 ### Mostrar los pacientes por veterinario
 
