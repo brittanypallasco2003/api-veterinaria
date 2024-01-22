@@ -141,7 +141,7 @@ git clone https://github.com/brittanypallasco2003/api-veterinaria.git
 ### Detalle del tratamiento
 |Visualización del Detalle|
 |-|
-|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/1911d0fc-7868-4daa-b66d-3b0b779c549e)|
+|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/3caff28e-67e9-4f5a-b157-d4e305eff146)
 |![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/5b897fe7-7a09-4a46-9adc-fb756fc02875)|
 
 
