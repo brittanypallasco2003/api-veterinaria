@@ -134,4 +134,7 @@ git clone https://github.com/brittanypallasco2003/api-veterinaria.git
 ## Módulo Tratamiento
 ### Crear tratamiento
 ![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/b80fc1b1-73fe-4c50-b529-576c8e9d7a6f)
+### Detalle del tratamiento
+![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/1911d0fc-7868-4daa-b66d-3b0b779c549e)
+
 
