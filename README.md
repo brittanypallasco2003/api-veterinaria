@@ -23,10 +23,12 @@
             └── validacionVeterinario.js
         └── 📁models
             └── Veterinario.js
+            └── Tratamiento.js
             └── Paciente.js
         └── 📁routers
             └── veterinario_routes.js
             └── paciente_routes.js
+            └── tratamiento_routes.js
 ```
 ## Instalación
 Para acceder al proyecto se debe realizar la clonación del mismo mediante:
