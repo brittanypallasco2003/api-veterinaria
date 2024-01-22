@@ -130,3 +130,8 @@ git clone https://github.com/brittanypallasco2003/api-veterinaria.git
 
 ### Perfil Paciente
 ![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/552266d8-bf3a-4bcf-8b83-f2a058da3eba)
+
+## Módulo Tratamiento
+### Crear tratamiento
+![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/b80fc1b1-73fe-4c50-b529-576c8e9d7a6f)
+
