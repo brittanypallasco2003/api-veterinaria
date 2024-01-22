@@ -116,7 +116,7 @@ git clone https://github.com/brittanypallasco2003/api-veterinaria.git
 |![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/b2c18ea6-fe37-46e1-bf64-b98ce51b63fb)|
 
 ### Mostrar Detalle del paciente
-||
+|Detalle de la Paciente: Sara|
 |-|
 |![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/cb5dedf1-8017-4227-9483-ad2eda058b18)|
 
