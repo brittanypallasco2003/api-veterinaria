@@ -23,9 +23,18 @@ const loginPaciente = async(req,res)=>{
     })
 }
 //para registrar le paciente
-const perfilPaciente = (req,res)=>{
-    res.send("Perfil del paciente")
+const perfilPaciente =(req,res)=>{
+    delete req.pacienteBDD.ingreso
+    delete req.pacienteBDD.sintomas
+    delete req.pacienteBDD.salida
+    delete req.pacienteBDD.estado
+    delete req.pacienteBDD.veterinario
+    delete req.pacienteBDD.createdAt
+    delete req.pacienteBDD.updatedAt
+    delete req.pacienteBDD.__v
+    res.status(200).json(req.pacienteBDD)
 }
+
 //mostrar todos los pacientes
 const listarPacientes = async (req,res)=>{
     //Obtener todos los pacientes que se encuentren activos

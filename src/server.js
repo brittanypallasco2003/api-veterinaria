@@ -7,6 +7,8 @@ import cors from 'cors';
 import routerVeterinarios from './routers/veterinario_routes.js'
 //importar la variable routerPacientes
 import routerPacientes from './routers/paciente_routes.js'
+import routerTratamientos from './routers/tratameinto_routes.js'
+
 //INICIALIZACIONES
 // instaciar express
 const app = express()
@@ -27,6 +29,7 @@ app.get('/',(req,res)=>{
 })
 app.use('/api',routerVeterinarios)
 app.use('/api',routerPacientes)
+app.use('/api', routerTratamientos)
 // Manejo de una ruta que no sea encontrada
 app.use((req,res)=>res.status(404).send("Endpoint no encontrado - 404"))
 
