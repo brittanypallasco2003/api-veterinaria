@@ -124,4 +124,4 @@ git clone https://github.com/brittanypallasco2003/api-veterinaria.git
 |Actualizar|Eliminar|
 |-|-|
 |![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/3b2b46ab-4701-4c58-a241-17bc8685d771)
-||
+|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/04732c9b-0e61-4b5e-bc03-2352c474c0cd)|
