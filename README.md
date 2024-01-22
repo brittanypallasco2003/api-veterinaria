@@ -125,3 +125,6 @@ git clone https://github.com/brittanypallasco2003/api-veterinaria.git
 |-|-|
 |![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/3b2b46ab-4701-4c58-a241-17bc8685d771)
 |![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/04732c9b-0e61-4b5e-bc03-2352c474c0cd)|
+
+### Perfil Paciente
+![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/552266d8-bf3a-4bcf-8b83-f2a058da3eba)
