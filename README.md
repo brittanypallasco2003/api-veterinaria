@@ -118,5 +118,10 @@ git clone https://github.com/brittanypallasco2003/api-veterinaria.git
 ### Mostrar Detalle del paciente
 ||
 |-|
-|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/cb5dedf1-8017-4227-9483-ad2eda058b18)
-|
+|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/cb5dedf1-8017-4227-9483-ad2eda058b18)|
+
+### Actualización de los datos del paciente
+|Actualizar|Eliminar|
+|-|-|
+|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/3b2b46ab-4701-4c58-a241-17bc8685d771)
+||
