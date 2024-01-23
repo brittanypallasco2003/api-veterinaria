@@ -157,8 +157,7 @@ git clone https://github.com/brittanypallasco2003/api-veterinaria.git
 ### Cambiar estado 
 |Dar por finalizado un tratamiento|
 |-|
-|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/f31373c2-30b9-49f1-aa91-a5090c6e835f)|
-![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/fef8c8fd-61f0-4872-8f7d-6dcc9433346b)|
+|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/f31373c2-30b9-49f1-aa91-a5090c6e835f)|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/fef8c8fd-61f0-4872-8f7d-6dcc9433346b)|
 
 
 
