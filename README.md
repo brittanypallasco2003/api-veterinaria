@@ -152,7 +152,7 @@ git clone https://github.com/brittanypallasco2003/api-veterinaria.git
 ### Eliminar Tratamiento
 |Tratamiento a Eliminar|Tratamiento Eliminado|
 |-|-|
-|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/62187e27-b5de-45b4-ad8f-f0b2adeff46c)||
+|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/353b0e3f-ce2b-4933-a766-25dae26cf61c)|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/f4ef8379-2a83-40a9-82f0-6028974cc74a)|
 
 ### Cambiar estado 
 |Tratamiento a Eliminar|
