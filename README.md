@@ -30,7 +30,7 @@
             └── paciente_routes.js
             └── tratamiento_routes.js
 ```
-## Instalación
+## Clonación e Instalación
 Para acceder al proyecto se debe realizar la clonación del mismo mediante:
 ```
 git clone https://github.com/brittanypallasco2003/api-veterinaria.git
@@ -39,7 +39,7 @@ git clone https://github.com/brittanypallasco2003/api-veterinaria.git
 >
 > Este proyecto trabaja con el sistema de módulos ES Modules
 
-**Instalación de Dependencias**
+### Instalación de Dependencias
 
 > [!NOTE]
 >
