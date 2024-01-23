@@ -152,12 +152,12 @@ git clone https://github.com/brittanypallasco2003/api-veterinaria.git
 ### Eliminar Tratamiento
 |Tratamiento a Eliminar|Tratamiento Eliminado|
 |-|-|
-|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/353b0e3f-ce2b-4933-a766-25dae26cf61c)|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/c5daca6f-fb80-4f42-b8f0-9b9666373933)|
+|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/353b0e3f-ce2b-4933-a766-25dae26cf61c)|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/4c23a9fc-c6ca-4061-9a91-88546765359d)|
 
 ### Cambiar estado 
 |Dar por finalizado un tratamiento|
 |-|
-|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/f31373c2-30b9-49f1-aa91-a5090c6e835f)|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/fef8c8fd-61f0-4872-8f7d-6dcc9433346b)|
+|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/f31373c2-30b9-49f1-aa91-a5090c6e835f)|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/353b0e3f-ce2b-4933-a766-25dae26cf61c)|
 
 
 
