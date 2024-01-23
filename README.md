@@ -145,9 +145,9 @@ git clone https://github.com/brittanypallasco2003/api-veterinaria.git
 |![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/5b897fe7-7a09-4a46-9adc-fb756fc02875)|
 
 ### Actualizar Tratamiento
-|Tratamiento a actualizar|Tratamiento actualizado|
-|-|-|
-|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/7824260b-4689-4e13-afe8-2966f56f7624)|
+|Tratamiento a actualizar|Actualización|Tratamiento Actualizado|
+|-|-|-|
+|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/80cb315d-6de4-4c9e-ba44-fd6d6e3f9f89)|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/ed3e83c7-6c68-4c5a-978b-42c4aa6f50f9)|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/f6763f67-98fb-471b-803b-6e6ae9688b04)|
 
 ### Eliminar Tratamiento
 |Tratamiento a actualizar|Tratamiento actualizado|
