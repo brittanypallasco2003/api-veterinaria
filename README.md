@@ -41,7 +41,7 @@ git clone https://github.com/brittanypallasco2003/api-veterinaria.git
 
 ### Instalación de Dependencias
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > Una vez clonado el repositorio se debe correr, por terminal, el siguente comando para poder instalar las dependencias correspondientes al proyecto.
 
