@@ -1,5 +1,7 @@
 import {Router} from 'express'
+import { validacionTratamiento } from '../middlewares/validacionTratamiento.js';
 const router = Router()
+import verificarAutenticacion from "../middlewares/autenticacion.js";
 //importar los métodos del controlador
 import {
     detalleTratamiento,
@@ -8,11 +10,10 @@ import {
     eliminarTratamiento,
     cambiarEstado
 } from "../controllers/tratamiento_controller.js";
-import verificarAutenticacion from "../middlewares/autenticacion.js";
 
 
 // //RUTA PARA CREAR TRATAMIENTOS
-router.post('/tratamiento/registro',registrarTratamiento)
+router.post('/tratamiento/registro',verificarAutenticacion,validacionTratamiento,registrarTratamiento)
 
 router
 //RUTA PARA VER EL DETALLE DEL TRATAMIENTO

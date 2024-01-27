@@ -2,6 +2,7 @@ import { sendMailToPaciente } from "../config/nodemailer.js"
 import generarJWT from "../helpers/crearJWT.js"
 import Paciente from "../models/Paciente.js"
 import mongoose from "mongoose"
+import Tratamiento from "../models/Tratamiento.js"
 
 const loginPaciente = async(req,res)=>{
     const {email,password} = req.body
