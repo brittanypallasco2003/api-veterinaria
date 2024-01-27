@@ -167,6 +167,11 @@ npm i
 |![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/353b0e3f-ce2b-4933-a766-25dae26cf61c)|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/4c23a9fc-c6ca-4061-9a91-88546765359d)|
 
 ### Cambiar estado 
+
+>[!NOTE]
+>
+> Un tratamiento en estado: **activo** o **true**, indica que el paciente tiene un tratamiento en curso y se presentará en la UI. Por otro lado, un tratamiento en estado: **desactivado** o **false**, se aplicaría cuando el paciente ya ha sido atendido y no aparecerá en la UI.
+
 |Dar por finalizado un tratamiento|
 |-|
 |![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/f31373c2-30b9-49f1-aa91-a5090c6e835f)|![image](https://github.com/brittanypallasco2003/api-veterinaria/assets/117743650/353b0e3f-ce2b-4933-a766-25dae26cf61c)|
