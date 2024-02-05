@@ -5,18 +5,18 @@ dotenv.config()
 
 let transporter = nodemailer.createTransport({
     service: 'gmail',
-    host: process.env.HOST_MAILTRAP,
-    port: process.env.PORT_MAILTRAP,
+    host: process.env.HOST_MAIL,
+    port: process.env.PORT_MAIL,
     auth: {
-        user: process.env.USER_MAILTRAP,
-        pass: process.env.PASS_MAILTRAP,
+        user: process.env.USER_MAIL,
+        pass: process.env.PASS_MAIL,
     }
 });
 
 const sendMailToUser = (userMail, token) => {
 
     let mailOptions = {
-        from: process.env.USER_MAILTRAP,
+        from: process.env.USER_MAIL,
         to: userMail,
         subject: "Verifica tu cuenta",
         html: `<p>Hola, haz clic <a href="${process.env.URL_BACKEND}confirmar/${encodeURIComponent(token)}">aquí</a> para confirmar tu cuenta.</p>`
