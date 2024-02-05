@@ -6,6 +6,6 @@ import connection from './database.js';
 connection()
 
 // iniciar el servidor en el puerto 3000
-// app.listen(app.get('port'),()=>{
-//     console.log(`Server ok on http://localhost:${app.get('port')}`);
-// })
+app.listen(app.get('port'),()=>{
+    console.log(`Server ok on http://localhost:${app.get('port')}`);
+})
